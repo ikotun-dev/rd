@@ -1,4 +1,4 @@
-## You use this in your APP scripts
+## Use this in your APP script, tune to your needs
 
 ### Backup first 🙏🏽
 
